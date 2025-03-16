@@ -1,0 +1,5 @@
+Name: Rohan Ramchandani
+Student ID: 501282983
+Email: rohan.ramchandani@torontomu.ca
+
+The main idea of this project is to build a library management system which is basic and easy to understand. You can add books to the library, you can remove them, you can display books, you also get to check if the specific book is there in the library or not. As you go through the codes, you will see different kinds of files with different kind of uses and also different kinds of books, with different methods. (Reference books cannot be borrowed). 
